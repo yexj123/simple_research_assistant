@@ -107,13 +107,3 @@ Reviewer Agent
   ├── Approved → Final Output
   └── Needs Revision → Research Agent
 ```
-
-## Future Improvements
-
-- Planner Agent
-- Multi-step reasoning
-- Multiple tools
-- Memory
-- RAG
-- Evaluation pipelines
-- LangGraph
